@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# larget file
+test/X_test5.npy
+
 # C extensions
 *.so
 
