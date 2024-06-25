@@ -59,13 +59,6 @@ class normalize:
 def odd_pow(input, exponent):
     return input.sign() * input.abs().pow(exponent)
 
-def normalize_X(X, mean_X, std_X):
-    # m = X.mean(0, keepdim=True)
-    # s = X.std(0, unbiased=False, keepdim=True)
-    X -= mean_X
-    X /= std_X
-    return X
-
 def transform_y(y, mean_y, std_y):
     y *= std_y
     y +=  mean_y
