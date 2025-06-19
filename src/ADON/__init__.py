@@ -1,4 +1,6 @@
-from .utils import MyNet
+from .utils import MyNet_ADON
+from .utils import BranchNet
+from .utils import TrunkNet
 from .utils import toTensor
 from .utils import powTransform
 from .utils import normalize
