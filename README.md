@@ -15,7 +15,7 @@ The publication "Data-driven emulation of modal aerosol microphysics via neural 
   year={2025},
   publisher={Nature Publishing Group UK London}
 }
-
+```
 ## License
 See [LICENSE](LICENSE) for details.
 
