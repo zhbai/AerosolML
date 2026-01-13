@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Data-driven emulation of modal aerosol microphysics via neural operator-based modeling
+authors:
+  - family-names: Bai
+    given-names: Zhe
+version: 1.0.0
+doi: 10.5281/zenodo.18226529

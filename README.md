@@ -1,12 +1,12 @@
 # AerosolML
-This repository provides inference model, codes, and instructions for predicting variables in aerosol microphysics.
+This repository provides inference model, codes, and instructions for a surrogate ML model - the aerosol deep operator network (ADON), a physics-inspired dual-net architecture for emulating the aerosol microphysics parameterization suite in the version 2 of the Energy Earth System Model (E3SMv2). The publication "Data-driven emulation of modal aerosol microphysics via neural operator-based modeling" by Z. Bai and D. Rouson is available at [Paper Link](https://doi.org/10.1038/s41598-025-33209-x)
+
 
 ## Data
-The datasets presented in this work are archived on Zenodo:
-https://doi.org/10.5281/zenodo.18226529
+The datasets presented in this work are archived on Zenodo: [Data Link](https://doi.org/10.5281/zenodo.18226529)
 
 ## Reference
-The publication "Data-driven emulation of modal aerosol microphysics via neural operator-based modeling" by Z. Bai and D. Rouson is available at [https://doi.org/10.1038/s41598-025-33209-x](https://doi.org/10.1038/s41598-025-33209-x).
+
 ```bibtex
 @article{bai2025data,
   title={Data-driven emulation of modal aerosol microphysics via neural operator-based modeling},
