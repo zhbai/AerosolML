@@ -1,0 +1,4 @@
+title: Data-driven emulation of modal aerosol microphysics via neural operator-based modeling
+description: This work constructs a surrogate model: the aerosol deep operator network (ADON), a physics-inspired dual-net architecture for emulating the aerosol microphysics parameterization suite in the version 2 of the Energy Earth System Model (E3SMv2).
+theme: minima
+markdown: kramdown
